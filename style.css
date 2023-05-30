@@ -1,0 +1,20 @@
+.grid {
+  width: 1024px;
+  height: 768px;
+  display: flex;
+  flex-wrap: wrap;
+  border-style: solid;
+}
+
+.grid div {
+  width: 20px;
+  height: 20px;
+}
+
+.snake {
+  background-color: rgb(113, 209, 24);
+}
+
+.apple {
+  background-color: rgb(192, 12, 192);
+}
